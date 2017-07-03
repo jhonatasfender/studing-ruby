@@ -1,0 +1,2 @@
+ano = gets
+puts ano
